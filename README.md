@@ -2,7 +2,7 @@
 
 This app has preinstalled data through the use of Core Data - that lets the user scroll through a list of locations, drill down into a location and jot down notes.
 
-## Architecture and Work flow
+## App Architecture
 
 - The home viewController is initially a tableView that the user can scroll through.
 - When the user selects one of the places it opens up the placeViewController were they can get more details about that location.
